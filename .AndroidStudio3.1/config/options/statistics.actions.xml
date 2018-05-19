@@ -1,12 +1,17 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="CheckinProject" count="3" />
+      <entry action="$Undo" count="1" />
+      <entry action="CheckinProject" count="6" />
       <entry action="CloseProject" count="1" />
-      <entry action="EditorBackSpace" count="74" />
-      <entry action="EditorDown" count="2" />
-      <entry action="EditorPaste" count="1" />
-      <entry action="Start.Use.Vcs" count="2" />
+      <entry action="EditorBackSpace" count="140" />
+      <entry action="EditorDown" count="47" />
+      <entry action="EditorPaste" count="4" />
+      <entry action="EditorUp" count="48" />
+      <entry action="Exit" count="1" />
+      <entry action="Git.Rebase" count="1" />
+      <entry action="Github.Share" count="1" />
+      <entry action="Start.Use.Vcs" count="3" />
     </counts>
   </component>
 </application>
