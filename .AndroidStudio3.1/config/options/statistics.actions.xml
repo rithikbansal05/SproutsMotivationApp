@@ -2,13 +2,14 @@
   <component name="ActionsCollector">
     <counts>
       <entry action="$Undo" count="1" />
+      <entry action="ChangesView.AddUnversioned.From.Dialog" count="1" />
       <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="ChangesView.Revert" count="1" />
-      <entry action="CheckinProject" count="15" />
+      <entry action="CheckinProject" count="17" />
       <entry action="CloseProject" count="1" />
-      <entry action="EditorBackSpace" count="201" />
+      <entry action="EditorBackSpace" count="229" />
       <entry action="EditorDown" count="47" />
-      <entry action="EditorEnter" count="1" />
+      <entry action="EditorEnter" count="2" />
       <entry action="EditorPaste" count="4" />
       <entry action="EditorUp" count="48" />
       <entry action="Exit" count="1" />

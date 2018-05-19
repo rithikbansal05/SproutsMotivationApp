@@ -1,6 +1,7 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
+      <entry action="ChangesView.AddUnversioned.From.Dialog@SPECIFIC_FILES_DIALOG" count="1" />
       <entry action="Vcs.ShowMessageHistory@CommitMessage" count="1" />
       <entry action="Vcs.UpdateProject@NavBarToolbar" count="1" />
     </counts>
