@@ -1,9 +1,10 @@
 <application>
   <component name="ActionsCollector">
     <counts>
-      <entry action="CheckinProject" count="1" />
+      <entry action="CheckinProject" count="2" />
       <entry action="EditorBackSpace" count="65" />
       <entry action="EditorDown" count="2" />
+      <entry action="EditorPaste" count="1" />
       <entry action="Start.Use.Vcs" count="1" />
     </counts>
   </component>
