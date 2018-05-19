@@ -2,8 +2,9 @@
   <component name="ActionsCollector">
     <counts>
       <entry action="$Undo" count="1" />
+      <entry action="ChangesView.ApplyPatch" count="1" />
       <entry action="ChangesView.Revert" count="1" />
-      <entry action="CheckinProject" count="14" />
+      <entry action="CheckinProject" count="15" />
       <entry action="CloseProject" count="1" />
       <entry action="EditorBackSpace" count="201" />
       <entry action="EditorDown" count="47" />
