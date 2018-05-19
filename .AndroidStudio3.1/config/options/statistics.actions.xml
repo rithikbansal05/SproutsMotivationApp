@@ -3,7 +3,7 @@
     <counts>
       <entry action="$Undo" count="1" />
       <entry action="ChangesView.Revert" count="1" />
-      <entry action="CheckinProject" count="12" />
+      <entry action="CheckinProject" count="13" />
       <entry action="CloseProject" count="1" />
       <entry action="EditorBackSpace" count="162" />
       <entry action="EditorDown" count="47" />
