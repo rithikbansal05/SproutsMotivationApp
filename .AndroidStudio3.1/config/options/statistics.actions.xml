@@ -3,9 +3,9 @@
     <counts>
       <entry action="$Undo" count="1" />
       <entry action="ChangesView.Revert" count="1" />
-      <entry action="CheckinProject" count="11" />
+      <entry action="CheckinProject" count="12" />
       <entry action="CloseProject" count="1" />
-      <entry action="EditorBackSpace" count="141" />
+      <entry action="EditorBackSpace" count="162" />
       <entry action="EditorDown" count="47" />
       <entry action="EditorEnter" count="1" />
       <entry action="EditorPaste" count="4" />
@@ -13,7 +13,8 @@
       <entry action="Exit" count="1" />
       <entry action="Git.Rebase" count="2" />
       <entry action="Github.Share" count="1" />
-      <entry action="Start.Use.Vcs" count="4" />
+      <entry action="NewProject" count="1" />
+      <entry action="Start.Use.Vcs" count="5" />
       <entry action="Vcs.QuickListPopupAction" count="1" />
       <entry action="Vcs.ShowMessageHistory" count="1" />
       <entry action="Vcs.UpdateProject" count="1" />
