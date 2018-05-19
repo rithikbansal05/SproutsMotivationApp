@@ -5,11 +5,11 @@
       <entry path="File -&gt; Exit" count="1" />
       <entry path="File -&gt; New -&gt; New Project..." count="1" />
       <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="1" />
-      <entry path="VCS -&gt; Commit" count="13" />
+      <entry path="VCS -&gt; Commit" count="14" />
       <entry path="VCS -&gt; Enable Version Control Integration..." count="5" />
       <entry path="VCS -&gt; Git -&gt; Rebase..." count="2" />
       <entry path="VCS -&gt; Git -&gt; Revert" count="1" />
-      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="1" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="2" />
       <entry path="VCS -&gt; VCS Operations Popup..." count="1" />
     </counts>
   </component>
