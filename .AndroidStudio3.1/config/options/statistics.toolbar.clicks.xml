@@ -1,0 +1,8 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Vcs.ShowMessageHistory@CommitMessage" count="1" />
+      <entry action="Vcs.UpdateProject@NavBarToolbar" count="1" />
+    </counts>
+  </component>
+</application>
